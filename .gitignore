@@ -1,0 +1,7 @@
+# Created by .ignore support plugin
+__pycache__/
+.idea/
+*/.DS_Store
+*.pyc
+.gitattributes
+.DS_Store
